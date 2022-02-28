@@ -1,0 +1,1 @@
+# zabbix-centos8-install
